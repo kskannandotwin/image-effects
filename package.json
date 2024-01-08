@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/kskannandotwin/image-effects#readme",
   "devDependencies": {
+    "@wasm-tool/wasm-pack-plugin": "^1.7.0",
     "html-webpack-plugin": "^5.6.0",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4",
